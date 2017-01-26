@@ -11,4 +11,6 @@
 ### þú þarft að gera er að reikna heildarrafafl þörf fyrir þína byggju.
 ## Sp 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ### Skref 1 - Finna vandamálið, skref 2 - virkni, finna vandamálið, skref 3 - koma á kenningu um líkleg orsök, skref 4 - prófa kenninguna til að ákvarða orsök, skref 5 - Koma á áætlun um aðgerðir til að leysa vandamálið ig innleiða lausnina, skref 6 - Staðfest full virkni kerfisins og, ef við á, hrinda í framkvæmd fyrirbyggjandi ráðstafanir. 
+## Sp 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+### Lokuð spurning þá er bara 1 mögulegt svar, opin spurning þá getur verið mörg svör.
 
