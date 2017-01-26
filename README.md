@@ -17,4 +17,4 @@
 ### Er aðallega ytri búnaður eins og skjár, lyklaborð, prentari o.fl. Sem er tengdur kerfiseiningunni með snúrum.
 ## Sp 9. Nemdu þrjú dæmi um inntakstæki.
 ### Lyklaborð, mús, skjár.
-
+## Sp 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhlut þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
