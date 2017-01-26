@@ -13,4 +13,6 @@
 ### Skref 1 - Finna vandamálið, skref 2 - virkni, finna vandamálið, skref 3 - koma á kenningu um líkleg orsök, skref 4 - prófa kenninguna til að ákvarða orsök, skref 5 - Koma á áætlun um aðgerðir til að leysa vandamálið ig innleiða lausnina, skref 6 - Staðfest full virkni kerfisins og, ef við á, hrinda í framkvæmd fyrirbyggjandi ráðstafanir. 
 ## Sp 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ### Lokuð spurning þá er bara 1 mögulegt svar, opin spurning þá getur verið mörg svör.
+## Sp 8. Hvað er jaðartæki?
+### Er aðallega ytri búnaður eins og skjár, lyklaborð, prentari o.fl. Sem er tengdur kerfiseiningunni með snúrum.
 
