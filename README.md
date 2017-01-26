@@ -15,4 +15,6 @@
 ### Lokuð spurning þá er bara 1 mögulegt svar, opin spurning þá getur verið mörg svör.
 ## Sp 8. Hvað er jaðartæki?
 ### Er aðallega ytri búnaður eins og skjár, lyklaborð, prentari o.fl. Sem er tengdur kerfiseiningunni með snúrum.
+## Sp 9. Nemdu þrjú dæmi um inntakstæki.
+### Lyklaborð, mús, skjár.
 
