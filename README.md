@@ -8,4 +8,7 @@
 ## Sp 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ### ESD = Eloctrostatic discharge, Rafstöðuafhleðsla getur átt sér stað þegar það er mögnun á rafhleðslu (stöðurafmagns) sem er til staðar á yfirborði sem kemur í snertingu við annað, öðruvísi innheimt yfirborð, Halda öllum íhlutum í antistatic poka fyrr en þú ert tilbúin til að setja þá, nota sérstakar mottur sem taka til sín rafmagn og, Nota Antistatic úlnlið ólar þegar vinna á tölvur.
 ## Sp 5. Hvað þarf að hafa í huga við val á spennugjöfum?
-### þú þarft að gera er að reikna heildarrafafl þörf fyrir þína byggju
+### þú þarft að gera er að reikna heildarrafafl þörf fyrir þína byggju.
+## Sp 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+### Skref 1 - Finna vandamálið, skref 2 - virkni, finna vandamálið, skref 3 - koma á kenningu um líkleg orsök, skref 4 - prófa kenninguna til að ákvarða orsök, skref 5 - Koma á áætlun um aðgerðir til að leysa vandamálið ig innleiða lausnina, skref 6 - Staðfest full virkni kerfisins og, ef við á, hrinda í framkvæmd fyrirbyggjandi ráðstafanir. 
+
