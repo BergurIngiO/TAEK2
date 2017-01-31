@@ -31,5 +31,5 @@
 | Video Card | XFX Radeon R9 Fury 4GB Triple Dissipation Video Card              |   484.98$  |  Newegg  |
 |   Case     | Fractal Design Define S w/Window ATX Mid Tower Case               |   88.99$   | SuperBiiz|
 |Power Supply| Corsair RM 1000W 80+ Gold Certified Fully-Modular ATX Power Supply|   129.99$  |  Newegg  |
-|--------------------------------------------------------------------------------------------------------|
-|--------------------------------------------------------------------------------|   2125.62$ |----------|
+|------------|-------------------------------------------------------------------|  2125.65$  |----------|
+
