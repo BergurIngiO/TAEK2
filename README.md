@@ -18,3 +18,18 @@
 ## Sp 9. Nemdu þrjú dæmi um inntakstæki.
 ### Lyklaborð, mús, skjár.
 ## Sp 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhlut þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+
+|   Partar   |            Heiti                                                  |     Verð   |    Búð   |
+|------------|-------------------------------------------------------------------|------------|----------|
+|   CPU      | Intel Core I5-6600k 3.5GHz- Quad-Core Processor                   |   273.98$  |  Newegg  |
+| CPU Coller | Noctuca NH-D15 82.5 CFM CPU Coller                                |   61.83$   |  Amazon  |           
+|Motherboard | MSI z97 PC MATE ATX LGA 1150 Motherboard                          |   143.99$  |SuperBiiz |           
+|   Memory   | G.Skill Value 16Gb (2 x 8GB) DDR3-1600 Memory                     |   91.99$   |  Newegg  |
+|  Storage   | Samsung 950 PRO 256GB M.2-2280 Solid State Drive                  |   182.99$  |  NCIX US |
+|  Stoarge   | Seagate Barracuda 2TB 3.5" 7200RPM Internal Hard Drive            |   67.88$   |  OutletPC|           
+| Video Card | XFX Radeon R9 Fury 4GB Triple Dissipation Video Card              |   484.98$  |  Newegg  |
+|   Case     | Fractal Design Define S w/Window ATX Mid Tower Case               |   88.99$   | SuperBiiz|
+|Power Supply| Corsair RM 1000W 80+ Gold Certified Fully-Modular ATX Power Supply|   129.99$  |  Newegg  |
+|--------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------|   2125.62$ |----------|
